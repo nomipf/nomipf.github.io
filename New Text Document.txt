@@ -1,0 +1,3 @@
+    <color name="colorPrimary">#007DD9</color>
+    <color name="colorPrimaryDark">#0166B8</color>
+    <color name="colorAccent">#0166B8</color>
